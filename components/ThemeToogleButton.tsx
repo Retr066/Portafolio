@@ -7,14 +7,15 @@ export default function ThemeToogleButton({
   onclick?: () => void;
   theme: boolean;
 }) {
-  const clases = `h-10 w-10 p-2 border-solid rounded border-2 border-yellow-600 bg-amber-300 hover:bg-amber-500 dark:bg-indigo-700 dark:border-indigo-900 `;
+  const clases = `h-10 w-10 p-2 border-solid rounded border-2 border-yellow-600 bg-amber-300 
+                  hover:bg-amber-500 dark:bg-indigo-700 dark:border-indigo-900 `;
 
   return (
-    <button className="transition-all delay-200">
+    <button onClick={onclick} className="transition-all delay-200">
       {theme ? (
-        <MoonIcon onClick={onclick} className={clases}></MoonIcon>
+        <MoonIcon className={clases}></MoonIcon>
       ) : (
-        <SunIcon onClick={onclick} className={clases}></SunIcon>
+        <SunIcon className={clases}></SunIcon>
       )}
     </button>
   );
