@@ -1,4 +1,4 @@
-import { GithubOutlined, LinkedinOutlined, MailOutlined, WhatsAppOutlined } from '@ant-design/icons';
+import { GithubOutlined, LinkedinOutlined, WhatsAppOutlined } from '@ant-design/icons';
 import Lottie from 'lottie-react';
 import { useInView } from 'react-intersection-observer';
 import { Element } from 'react-scroll';
@@ -42,10 +42,12 @@ export const Presentation = () => {
               }}
             />
             <div className="flex items-center gap-4">
-              <button className="px-4 py-2 text-white transition duration-300 rounded-md shadow-md bg-primary hover:bg-secondary dark:bg-primary dark:text-white hover:shadow-lg dark:shadow-lg hover:dark:bg-secondary dark:shadow-primary/50">
+              <a
+                href="mailto:jherson.lopez88@gmail.com?subject=Contacto%20desde%20el%20sitio%20web&body=Hola%20Jherson,%20me%20gustaría%20contactarte%20para..."
+                className="px-4 py-2 text-white transition duration-300 rounded-md shadow-md bg-primary hover:bg-secondary dark:bg-primary dark:text-white hover:shadow-lg dark:shadow-lg hover:dark:bg-secondary dark:shadow-primary/50"
+              >
                 Contactame
-              </button>
-
+              </a>
               <a
                 className="text-lg border-b-2 text-quaternary border-b-primary dark:text-gray-100"
                 href="./CV_actualizado.pdf"
@@ -64,12 +66,6 @@ export const Presentation = () => {
               </a>
               <a href="https://wa.link/4dh6go" target="_blank">
                 <WhatsAppOutlined className="text-3xl text-primary dark:text-gray-100" />
-              </a>
-              <a
-                href="mailto:jherson.lopez88@gmail.com?subject=Contacto%20desde%20el%20sitio%20web&body=Hola%20Jherson,%20me%20gustaría%20contactarte%20para..."
-                target="_blank"
-              >
-                <MailOutlined className="text-3xl text-primary dark:text-gray-100" />
               </a>
             </div>
           </div>
