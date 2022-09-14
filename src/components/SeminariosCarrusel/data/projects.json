@@ -1,0 +1,138 @@
+[
+  {
+    "id": "1",
+    "name": "Demo Desarrollo Global",
+    "description": "Aplicación Web de Desarrollo Global para la venta de cursos para funcionarios públicos",
+    "url": "https://desarrollo-global.vercel.app",
+    "repository": "https://github.com/Retr066/Desarrollo-Global",
+    "image": "https://res.cloudinary.com/duaj7oxcq/image/upload/v1662434722/captura_projectos/captura-desarrollo-global_vk751o.png",
+    "technology": ["React", "TailwindCSS"],
+    "bill": "No se necesita cuenta para acceder a la aplicación"
+  },
+  {
+    "id": "2",
+    "name": "Calendario de Eventos",
+    "description": "Aplicación Web de Calendario para guardar eventos esta realizado con el stack MERN",
+    "url": "https://calendaddy-app.herokuapp.com",
+    "repository": "https://github.com/Retr066/calendar_fronted",
+    "image": "https://res.cloudinary.com/duaj7oxcq/image/upload/v1662440296/captura_projectos/captura-calendaddy_fcly6g.png",
+    "technology": ["React", "NodeJS", "MongoDB", "Express"],
+    "bill": "Se necesita registrarte en la aplicación para acceder"
+  },
+  {
+    "id": "3",
+    "name": "Aplicación de Journal App",
+    "description": "Aplicación Web de Journal donde puedes guardar ,eliminar y editar notas personales, esta realizado con el Reactjs ,Redux y Firebase",
+    "url": "https://retr066.github.io/Journal-App",
+    "repository": "https://github.com/Retr066/Journal-App",
+    "image": "https://res.cloudinary.com/duaj7oxcq/image/upload/v1662434911/captura_projectos/captural-journal-app_xghvwm.png",
+    "technology": ["React", "Redux", "Firebase"],
+    "bill": "Se necesita registrarte en la aplicación para acceder"
+  },
+  {
+    "id": "4",
+    "name": "Mercado Lomas Tesorería",
+    "description": "Aplicación Web para el Mercado las Lomas donde se tendrá un control ingresos y egreso de dinero de la tesorería , esta realizado con laravel 8",
+    "url": "https://tesoreria-lomas.up.railway.app",
+    "repository": "https://github.com/Retr066/Gestion-Tesoreria-Mercado",
+    "image": "https://res.cloudinary.com/duaj7oxcq/image/upload/v1662754860/captura_projectos/captura-tesoreria_wfxnyw.png",
+    "technology": ["Laravel", "TailwindCSS", "MySQL"],
+    "bill": {
+      "user": "admin666@yopmail.com",
+      "password": "12345678"
+    }
+  },
+  {
+    "id": "5",
+    "name": "Estudio Fotográfico Perez",
+    "description": "Sitio Web para publicidad de un estudio fotográfico, esta realizado en Nextjs y Bootstrap",
+    "url": "https://fotoperez.vercel.app",
+    "repository": "https://github.com/Retr066/estudioFotografico",
+    "image": "https://res.cloudinary.com/duaj7oxcq/image/upload/v1662613313/captura_projectos/captura-estudiofoto_ljibst.png",
+    "technology": ["Nextjs", "Bootstrap"],
+    "bill": "No se necesita cuenta para acceder a la aplicación"
+  },
+  {
+    "id": "6",
+    "name": "Gestión de Trabajo Remoto",
+    "description": "Aplicación Web para el Colegio Marista, donde se tendrá un control de los trabajos remotos de los docentes, esta realizado con laravel 8",
+    "url": "https://gestion-de-trabajo-remoto-production.up.railway.app",
+    "repository": "https://github.com/Retr066/Gestion-Tesoreria-Mercado",
+    "image": "https://res.cloudinary.com/duaj7oxcq/image/upload/v1662755109/captura_projectos/captura-trabajo-remoto_dl3bnm.png",
+    "technology": ["Laravel", "TailwindCSS", "MySQL"],
+    "bill": {
+      "user": "jlopez@barinaga.edu.pe",
+      "password": "jlopez12345"
+    }
+  },
+  {
+    "id": "7",
+    "name": "Hero App",
+    "description": "Aplicacion Web para ver los heroes de DC comic y Marvel, esta realizado con Reactjs y Bootstrap",
+    "url": "https://retr066.github.io/HeroApp",
+    "repository": "https://github.com/Retr066/HeroApp",
+    "image": "https://res.cloudinary.com/duaj7oxcq/image/upload/v1662613891/captura_projectos/captura-heroApp_t8shk3.png",
+    "technology": ["React", "Bootstrap"],
+    "bill": "No se necesita cuenta para acceder a la aplicación"
+  },
+  {
+    "id": "8",
+    "name": "Gifs App",
+    "description": "Aplicación Web para buscar gifs animados, esta realizado con Reactjs y Bootstrap",
+    "url": "https://retr066.github.io/Gif-By-Retr0",
+    "repository": "https://github.com/Retr066/Gif-By-Retr0",
+    "image": "https://res.cloudinary.com/duaj7oxcq/image/upload/v1662613996/captura_projectos/captura-gifApp_rmsuwv.png",
+    "technology": ["React", "Bootstrap"],
+    "bill": "No se necesita cuenta para acceder a la aplicación"
+  },
+  {
+    "id": "9",
+    "name": "Calculadora App",
+    "description": "Aplicación Web de Calculadora, esta realizado con HTML,CSS y JS",
+    "url": "https://retr066.github.io/calculadora-js",
+    "repository": "https://github.com/Retr066/calculadora-js",
+    "image": "https://res.cloudinary.com/duaj7oxcq/image/upload/v1662614118/captura_projectos/captura-calculadora_ns9xhl.png",
+    "technology": ["HTML", "CSS", "JavaScript"],
+    "bill": "No se necesita cuenta para acceder a la aplicación"
+  },
+  {
+    "id": "10",
+    "name": "Metal Slug",
+    "description": "Aplicación Web de Metal Slug donde se podrán escuchar los sonidos de las armas del juego, esta realizado con HTML,CSS y JS",
+    "url": "https://retr066.github.io/MetalSlug",
+    "repository": "https://github.com/Retr066/MetalSlug",
+    "image": "https://res.cloudinary.com/duaj7oxcq/image/upload/v1662614711/captura_projectos/captura-metal_nc5o8o.png",
+    "technology": ["HTML", "CSS", "JavaScript"],
+    "bill": "No se necesita cuenta para acceder a la aplicación"
+  },
+  {
+    "id": "11",
+    "name": "App Notes 1",
+    "description": "Aplicación Web de Notas, esta realizado con Reactjs",
+    "url": "https://vast-stream-72208.herokuapp.com",
+    "repository": "https://github.com/Retr066/add-Notes",
+    "image": "https://res.cloudinary.com/duaj7oxcq/image/upload/v1662614637/captura_projectos/captura-addTodo_mi5gvs.png",
+    "technology": ["React", "CSS"],
+    "bill": "No se necesita cuenta para acceder a la aplicación"
+  },
+  {
+    "id": "12",
+    "name": "La tienda de Retr0",
+    "description": "Aplicación Web para vender artículos, esta realizado con Reactjs y Firebase",
+    "url": "https://la-tienda-de-retr0.web.app",
+    "repository": "https://github.com/Retr066/LaTiendaDeRetr0",
+    "image": "https://res.cloudinary.com/duaj7oxcq/image/upload/v1662613783/captura_projectos/captura-tienda-retr0_hon7fl.png",
+    "technology": ["React", "Firebase"],
+    "bill": "No se necesita cuenta para acceder a la aplicación"
+  },
+  {
+    "id": "13",
+    "name": "App Todo con IndexDB",
+    "description": "Aplicación Web de Todos usando la API de IndexDB, esta realizado con Reactjs y Bootstrap",
+    "url": "https://retr066.github.io/Add-Todo-indexBD-JS/",
+    "repository": "https://github.com/Retr066/Add-Todo-indexBD-JS",
+    "image": "https://res.cloudinary.com/duaj7oxcq/image/upload/v1662614870/captura_projectos/captura-index_pz4mbb.png",
+    "technology": ["HTML", "JavaScript", "Bootstrap"],
+    "bill": "No se necesita cuenta para acceder a la aplicación"
+  }
+]

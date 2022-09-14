@@ -1,0 +1,1 @@
+export { SeminariosSlides } from "./SeminariosSlides";

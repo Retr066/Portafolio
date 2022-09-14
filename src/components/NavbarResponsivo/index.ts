@@ -1,0 +1,1 @@
+export { NavbarResponsivo } from "./NavbarResponsivo";
