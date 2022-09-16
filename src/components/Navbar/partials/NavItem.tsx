@@ -37,7 +37,7 @@ export const NavItem: FC<NavItemProps> = ({ nombre, Icon }) => {
       ref={element}
       className={` ${
         activeItem === nombre ? "text-primary" : "text-tertiary dark:text-white"
-      } hover:text-primary flex flex-col justify-center items-center  px-3 py-2 transition-colors duration-150 `}
+      } hover:text-primary flex flex-col justify-center items-center  px-3 py-2 cursor-pointer transition-colors duration-150 `}
     >
       <Link href="/">
         <>

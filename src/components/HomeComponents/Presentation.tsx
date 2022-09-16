@@ -48,11 +48,7 @@ export const Presentation = () => {
               >
                 Contactame
               </a>
-              <a
-                className="text-lg border-b-2 text-quaternary border-b-primary dark:text-gray-100"
-                href="./CV_actualizado.pdf"
-                target="_blank"
-              >
+              <a className="text-lg border-b-2 text-quaternary border-b-primary dark:text-gray-100" href="./CV.pdf" target="_blank">
                 Ver CV
               </a>
             </div>
